@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-, "components/TaskContainer.jsx"  ]
+, "app/main.jsx", "app/+html.jsx"  ]
 }
